@@ -1,6 +1,6 @@
 # MATLAB and Simulink for Digital Agriculture
 
-## This repository containts the proceedings from our seminar series on MATLAB and Simulink for Digital Agriculture.
+This repository containts the proceedings from our seminar series on MATLAB and Simulink for Digital Agriculture.
 
 ## The first session delivered on March of 2025 focused on AI-Driven Agriculture: A Low-Code Approach
 
