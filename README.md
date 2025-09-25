@@ -15,4 +15,4 @@
 
 - Leveraging Simulation to Develop High-Tech Products
 - Shaping a Path to Offroad Autonomy Using MATLAB
-- Design and Development of a Skid-Steer Robotic Platform for Autonomous Agricultural Applications
+- Design and Development of a Skid-Steer Robotic Platform for Autonomous Agricultural Applications.
