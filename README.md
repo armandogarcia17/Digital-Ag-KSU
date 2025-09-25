@@ -1,15 +1,16 @@
 # MATLAB and Simulink for Digital Agriculture
+![GettyImages-619970422](https://github.com/user-attachments/assets/a3085531-efea-4b75-b2f8-94d28313bfa5)
 
 This repository containts the proceedings from our seminar series on MATLAB and Simulink for Digital Agriculture.
 
-## The first session delivered on March of 2025 focused on AI-Driven Agriculture: A Low-Code Approach
+## The first session delivered in March of 2025 focused on AI-Driven Agriculture: A Low-Code Approach
 
 ## Highlights
 - Explore MATLAB & Simulink: Learn how these platforms support complex agricultural research through computational modeling and simulation.
 - IoT: Live demonstration on collecting, aggregating, and analyzing sensor data using ThingSpeak.
 - Image Processing & AI: Live demonstration of how low-code tools in MATLAB facilitate image processing and machine learning workflows while auto-generating code. 
 
-## The second session focused on MATLAB and Simulink tools for modeling and simulating agricultural systems
+## The second session deliver in September of 2025 focused on MATLAB and Simulink tools for modeling and simulating agricultural systems
 
 ## Highlights
 
