@@ -1,7 +1,7 @@
 # MATLAB and Simulink for Digital Agriculture
 ![GettyImages-619970422](https://github.com/user-attachments/assets/a3085531-efea-4b75-b2f8-94d28313bfa5)
 
-This repository containts the proceedings from our seminar series on MATLAB and Simulink for Digital Agriculture.
+This repository containts the proceedings from our seminar series on MATLAB and Simulink for Digital Agriculture, as part of a collaboration with Kansas State University's Institute for Digital Agriculture and Advanced Analytics (ID3A).
 
 ## The first session delivered in March of 2025 focused on AI-Driven Agriculture: A Low-Code Approach
 
